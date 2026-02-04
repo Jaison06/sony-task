@@ -1,18 +1,22 @@
 ## Installation
 
 Environment : Php(8.x) , composer
+
 clone git repo
-composer install
+
+Open the project folder in Command Prompt and run the command below.
+
+composer update
 
 ## Task-1
 
-project folder open in cmd and run below.
+Open the project folder in Command Prompt and run the command below.
 
 php task1.php
 
 ## Task-2
 
-project folder open in cmd and run below.
+Open the project folder in Command Prompt and run the command below.
 
 The default port is 8080. If you want to use a different port, update both server.php and js/main.js.
 
